@@ -1,5 +1,9 @@
 # XternProject
 ### You can find my final plans here is the README,md, while the code will be attached. For this project, I used the Google Map Places API to retrieve my data.
+## DataFrame (Partial picture, see full dataframe in the code)
+![image](https://github.com/thomaschilson/XternProject/assets/112500801/cb84d53a-f476-4e99-a085-0705b218a16a)
+
+
 ## Weekend plan, day 1.
 ![image](https://github.com/thomaschilson/XternProject/assets/112500801/54e1b529-8b10-4885-ae86-eb7e87035033)
 
