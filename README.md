@@ -3,7 +3,10 @@
 ## DataFrame (Partial picture, see full dataframe in the code)
 ![image](https://github.com/thomaschilson/XternProject/assets/112500801/cb84d53a-f476-4e99-a085-0705b218a16a)
 
+## Findings
+### I found that over 75% of the businesses had a rating of over 4 stars, with a few outliers. I also found that, by far, Mexican and Taco Food Trucks were the most popular, holding over half the spots in my search. Then, I made a simple map with the points of all of the locations.
 
+### DataFrame (Partial picture, see full dataframe in the code)
 ## Weekend plan, day 1.
 ![image](https://github.com/thomaschilson/XternProject/assets/112500801/54e1b529-8b10-4885-ae86-eb7e87035033)
 
