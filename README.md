@@ -21,4 +21,4 @@
 
 <img width="476" alt="doc3" src="https://github.com/thomaschilson/XternProject/assets/112500801/a19dbd7e-3818-4780-8f54-bd1a97166d9d">
 
-### Many of the restaurants were not open during the times I needed them to be (Morning, Lunch) so this is why I had to travel a little bit further than I would have liked to. Overall, I think this woul be a successful weekend!
+### Many of the restaurants were not open during the times I needed them to be (Morning, Lunch) so this is why I had to travel a little bit further than I would have liked to. Overall, I think this woul be a successful weekend! Note: to run file yourself, you will need to a google API Client ID.
